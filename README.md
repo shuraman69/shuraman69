@@ -2,7 +2,7 @@
 ##I am a beginner *Web-Developer* from Tver.
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=reactjs)
+![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=react-js)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![RestApi](https://img.shields.io/badge/-RESTAPI-090909?style=for-the-badge&logo=restapi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
