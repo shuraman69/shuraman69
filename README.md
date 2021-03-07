@@ -1,7 +1,7 @@
-### Hi there 👋
-
-<!--
-**shuraman69/shuraman69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, my name is **Alexander Fateev**!
+##I am a beginner *Web-Developer* from Tver.
+### Languages and Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 
 Here are some ideas to get you started:
 
